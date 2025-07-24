@@ -1,4 +1,4 @@
-# TravelPlanner
+# TravelPlanner(API key and model name not provided)
 🧭 AI Travel Planner
 An AI-powered travel planning assistant that uses LangChain, LangGraph, and multi-agent coordination to generate personalized day trip itineraries based on city and interests provided by the user.
 
